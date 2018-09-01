@@ -9,5 +9,5 @@ OllyDbg v1.10 With Best Plugins
 - EasyController v1.0.5.0
 - Analyze This v0.1
 
-![alt tag](https://raw.githubusercontent.com/danh3707/OllyDbgV.10-plugins-and-Hlpfile/blob/master/ollydbgscreen.PNG)
+![alt tag](https://github.com/danh3707/OllyDbgV.10-plugins-and-Hlpfile/blob/master/ollydbgscreen.PNG?raw=true)
 
