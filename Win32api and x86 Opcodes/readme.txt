@@ -1,0 +1,1 @@
+The Win32.hlp file for OllyDbg "Help on symbolic name" containing information on some Win32 API's. Archive includes OpCodes.hlp for a list of some x86 hex opcodes and mnemonics with descriptions.
