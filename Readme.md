@@ -19,8 +19,3 @@ On windows 10 use the help32 win10 fix
 - Analyze This v0.1
 
 ![alt tag](https://github.com/danh3707/OllyDbgV.10-plugins-and-Hlpfile/blob/master/ollydbgscreen.PNG?raw=true)
-
-<ul>
-<li>Line 1</li>
-<li>Line 2</li>
-</ul>
