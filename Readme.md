@@ -1,4 +1,6 @@
-OllyDbg v1.10 With Best Plugins
+OllyDbg v1.10 With Plugins & Dark theme configured. 🙂
+Just extract and change the directories in Olly use the givin help api. 
+Turn off Phant0m is you are having issues debugging.
 
 ```plugin list```
 
