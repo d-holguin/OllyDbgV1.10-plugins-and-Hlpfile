@@ -1,4 +1,4 @@
-Check out x64 debugger @ https://x64dbg.com/#start I strongly recommend this as a replamcent for Olly 
+Before downloading Check out x64 debugger @ https://x64dbg.com/#start I strongly recommend this as a replamcent for Olly
 
 
 
