@@ -1,3 +1,7 @@
+Check out x64 debugger @ https://x64dbg.com/#start I strongly recommend this as a replamcent for Olly 
+
+
+
 OllyDbg v1.10 With Plugins & Dark theme configured🙂
 
 
