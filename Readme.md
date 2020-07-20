@@ -1,4 +1,4 @@
-Before downloading Check out x64 debugger @ https://x64dbg.com/#start I strongly recommend this as a replacement for Olly. 
+Before downloading Check out x64 debugger @ https://x64dbg.com/#start I strongly recommend this as a replacement for Olly. Feel pretty much the same.
 
 
 OllyDbg v1.10 With Plugins & Dark theme configured🙂
